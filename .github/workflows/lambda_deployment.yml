@@ -1,4 +1,4 @@
-name: Deployment of Lambda Function using GitHub actions
+name: Deployment of Lambda Function using GitHub action
 
 on:
   push:
